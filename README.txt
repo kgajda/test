@@ -231,23 +231,3 @@ Donec sollicitudin augue nec consectetur scelerisque. Suspendisse vestibulum
 lobortis nunc, ac condimentum ipsum suscipit eu. Phasellus tempus consequat
 metus, nec luctus nisl molestie sed. Cum sociis natoque penatibus et magnis dis
 parturient montes, nascetur ridiculus mus.
-
-Nunc in dui faucibus, aliquam felis a, vestibulum nulla. Nunc quis dui gravida,
-congue purus in, vehicula quam. Quisque et pharetra arcu. Aenean at justo eget
-arcu hendrerit volutpat. Vestibulum mi arcu, faucibus id sagittis a, aliquet ac
-odio. Donec gravida massa quis erat vestibulum, non ornare mauris pharetra.
-Integer enim nisl, lacinia eget accumsan non, dapibus vitae ante. Cras ac arcu
-at turpis porttitor gravida in a urna.
-
-Pellentesque iaculis mauris nec purus scelerisque, sit amet dapibus tellus
-vulputate. Maecenas vel pretium dui. Etiam ut interdum sem. Phasellus nibh
-velit, pretium ac metus eget, pretium ullamcorper dui. Vestibulum imperdiet
-purus accumsan odio rutrum tempor. Etiam vel lacus sit amet libero elementum
-egestas. Sed consequat dolor eros. Curabitur vel aliquet urna, ac ultrices est.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-turpis egestas. Mauris feugiat sit amet ligula sit amet consectetur. Aenean
-consequat tortor libero, eget semper felis maximus accumsan. Mauris blandit,
-ligula id accumsan dignissim, est mauris finibus metus, nec ultrices orci diam
-at diam. Praesent mollis elit ac nunc tincidunt porta. Suspendisse egestas
-massa justo, id gravida ipsum tincidunt ac. Ut elit diam, blandit eget molestie
-eget, facilisis id massa.
